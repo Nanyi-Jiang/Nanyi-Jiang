@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm currently a Sophomore majoring in Computer Science at Purdue University.
+🎓 I'm currently a Junior majoring in Computer Science at Purdue University West Lafayette.
 <!--
 **Nanyi-Jiang/Nanyi-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
