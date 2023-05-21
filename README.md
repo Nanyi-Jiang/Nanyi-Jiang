@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm currently a Junior majoring in Computer Science at Purdue University West Lafayette. And I'm also an incoming Amazon SDE Intern 2023.
+🎓 I'm currently a Junior majoring in Computer Science at Purdue University West Lafayette. And I'm also an Amazon SDE Intern @ AWS Audit Manager.
 <!--
 **Nanyi-Jiang/Nanyi-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
