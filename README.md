@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-🎓 I'm currently a Senior majoring in Computer Science at Purdue University West Lafayette.
+🎓 Senior majoring in Computer Science @ Purdue University West Lafayette.
+💼 Incoming Software Dev Engineer @ AWS Audit Manager
+🐱 TBD
+
 <!--
 **Nanyi-Jiang/Nanyi-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
