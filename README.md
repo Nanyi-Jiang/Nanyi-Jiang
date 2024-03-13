@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🎓 Senior majoring in Computer Science @ Purdue University West Lafayette.
+
 💼 Incoming Software Dev Engineer @ AWS Audit Manager
+
 🐱 TBD
 
 <!--
