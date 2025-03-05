@@ -6,7 +6,7 @@
 
 🐱 TBD
 
-💼 Bellevue
+💼 Seattle
 
 <!--
 **Nanyi-Jiang/Nanyi-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
