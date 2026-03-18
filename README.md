@@ -2,7 +2,7 @@
 
 🎓 Purdue University West Lafayette Class Of 2024
 
-💼 Software Dev Engineer @ AWS Audit Manager
+💼 Software Dev Engineer @ AWS
 
 🐱 TBD
 
